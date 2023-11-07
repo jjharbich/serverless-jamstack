@@ -1,0 +1,23 @@
+[
+  {
+    "apihost": "https://faas-sfo3-7872a1dd.doserverless.co",
+    "namespace": "fn-bec834a9-d378-43d1-a9c4-8a5b96d70528",
+    "packageVersions": {
+      "cloud": {
+        "version": "0.0.1",
+        "digest": "ea21cda643f5ae4cc95a97d79c0d69bf69a376abcd6ff0d2cd8adf8c7cdab429"
+      }
+    },
+    "actionVersions": {
+      "cloud/getCoffee": {
+        "version": "0.0.1",
+        "digest": "0b88e1deb9450dfc8d691f29fdddc384996921c80a370e57e77953bc6ef09d1c"
+      },
+      "cloud/postEmail": {
+        "version": "0.0.1",
+        "digest": "505abf7abd0a4a02c6a2b8c60e26b904554c04400899675d0f80a7cebc91d9e0"
+      }
+    },
+    "webHashes": {}
+  }
+]
