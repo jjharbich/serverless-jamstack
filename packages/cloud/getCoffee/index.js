@@ -11,7 +11,7 @@ async function main() {
     // Instantiates a connection to the database and retrieves data from the `available-coffee` collection
     try {
         await client.connect();
-        const inventory = await client.db("do-coffee").collection("available-coffees").find().toArray();
+        const inventory = await client.db("do-coffee").collection("coffee").find().toArray();
         console.log(inventory);
         return {
             "body": inventory
