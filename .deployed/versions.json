@@ -4,18 +4,39 @@
     "namespace": "fn-bec834a9-d378-43d1-a9c4-8a5b96d70528",
     "packageVersions": {
       "cloud": {
-        "version": "0.0.2",
+        "version": "0.0.5",
         "digest": "ea21cda643f5ae4cc95a97d79c0d69bf69a376abcd6ff0d2cd8adf8c7cdab429"
       }
     },
     "actionVersions": {
       "cloud/getCoffee": {
-        "version": "0.0.2",
-        "digest": "6c792d98987ab00acaddf0b8f51ae5e8587eb52827cf0bd8fdb2f124bcce15e5"
+        "version": "0.0.1",
+        "digest": "39f2f6c9cedd2d55bc32bf5263a679588fbe3e867446d13073e98433ebf48b9d"
       },
       "cloud/postEmail": {
-        "version": "0.0.2",
-        "digest": "afa7ca5913a1d442098812639abad2051be5974710bed024a5d900b00f0dfe25"
+        "version": "0.0.1",
+        "digest": "1a28329433e88a5d6a508baf22dccbe02641b1c6bf11cba0c93f1dc5e8a826ec"
+      }
+    },
+    "webHashes": {}
+  },
+  {
+    "apihost": "https://faas-tor1-70ca848e.doserverless.co",
+    "namespace": "fn-72bc785e-66f2-49f8-b0a7-56a75b07a336",
+    "packageVersions": {
+      "cloud": {
+        "version": "0.0.3",
+        "digest": "ea21cda643f5ae4cc95a97d79c0d69bf69a376abcd6ff0d2cd8adf8c7cdab429"
+      }
+    },
+    "actionVersions": {
+      "cloud/getCoffee": {
+        "version": "0.0.3",
+        "digest": "d0b5302aa2438927dd985ba8480483c7bf7548b7813808bca2aea5538765e86b"
+      },
+      "cloud/postEmail": {
+        "version": "0.0.3",
+        "digest": "a148475d7d5a026af313f69c267467b98ff3bf098567c42f1f6fb983334d61f9"
       }
     },
     "webHashes": {}
